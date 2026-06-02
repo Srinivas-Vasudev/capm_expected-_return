@@ -134,4 +134,4 @@ $$\bar{R} = \left(\prod_{t=1}^{n}(1+r_t)\right)^{1/n} - 1$$
 
 ## Author
 
-**Srinivas**  
+**Srinivas Vasudev**  
